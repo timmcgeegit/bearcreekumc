@@ -2,7 +2,10 @@
     import Header from "$lib/components/Header.svelte";
     import Footer from "$lib/components/Footer.svelte";
 </script>
-
+<svelte:head>
+    <title>Our Firm: McKenney & Associates</title>
+	<meta name="description" content="Hugh McKenney and the experienced legal team at McKenney & Associates PLLC provide skilled representation in property tax litigation, business law, and general practice matters throughout Texas. Trust our dedicated attorneys to protect your interests with personalized service and strategic solutions." />
+</svelte:head>
 <Header />
 <main class="font-sans bg-background-alt">
 <section class="container mx-auto border-t-2 py-24">
