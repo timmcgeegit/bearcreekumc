@@ -11,7 +11,7 @@
             <h2 class="text-6xl font-bold text-primary mb-4 font-serif">Our Firm</h2>
             <p class="text-xl leading-relaxed mb-4">A substantial part of the firm’s practice is devoted to representation of property owners throughout the state of Texas in judicial appeals of property tax appraisals by appraisal districts.</p>
             <p class="mb-4 text-lg">The firm continues to handle other matters related to general business representation, commercial litigation, and it continues to handle other matters associated with a general practice. The lawyers of the firm have substantial experience in matters in the following areas:</p>
-            <ul class="list-disc ml-4 text-lg"> 
+            <ul class="list-disc mb-4 ml-4 text-lg"> 
                <li>Property tax appraisal litigation</li> 
                <li>Commercial and business litigation</li> 
                <li>Commercial and business transaction representation</li> 
@@ -23,6 +23,8 @@
                <li>Probate and estate law (including wills and trusts)</li> 
                <li>Insurance defense</li> 
             </ul>
+            <p class="mb-4 text-lg">The firm’s attorney are licensed to practice in all Texas state courts, including the Texas State Supreme Court, and one or more of the attorneys are licensed to practice in the United States District Court for the Southern District of Texas, and a Fifth Circuit Court of Appeals in New Orleans. Hugh McKenney has been qualified to practice in various other state courts.</p>
+            <p class="mb-4 text-lg">The attorneys at McKenney | McClelland PLLC: are not board certified by the Texas Board of Legal Specialization in any particular area of practice.</p>
         </div>
         <div class="lg:container">
             <div class="container py-16 bg-primary rounded h-full">

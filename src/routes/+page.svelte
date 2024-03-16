@@ -42,7 +42,7 @@
   
     <section class="container mx-auto my-24">
       <h2 class="text-5xl font-bold text-primary mb-4 font-serif">Areas of Focus</h2>
-      <p class="text-xl max-w-xl leading-relaxed mb-8">Our firm provides skilled legal services in property tax appraisal litigation, commercial law, family law, probate, and more throughout Texas.</p>
+      <p class="text-xl max-w-xl leading-relaxed mb-8">Our firm specializes in property tax appraisal litigation, business law, and commercial litigation while offering a wide range of general legal services.</p>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <div>
             <Card.Root class="transition-all ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
@@ -51,7 +51,7 @@
                 <Card.Title class="text-primary text-2xl tracking-wide">Commercial Properties</Card.Title>
                 </Card.Header>
                 <Card.Content class="">
-                <p>Our attorneys handle various commercial and business litigation matters to protect our clients' interests.</p>
+                <p>Our firm provides comprehensive legal services for commercial property owners, including property tax appeals, lease negotiations, and dispute resolution.</p>
                 </Card.Content>
                 </Card.Root>
         </div>
@@ -62,7 +62,7 @@
                 <Card.Title class="text-primary text-2xl tracking-wide">Multi-Use Properties</Card.Title>
                 </Card.Header>
                 <Card.Content class="">
-                <p>Our attorneys handle various commercial and business litigation matters to protect our clients' interests.</p>
+                <p>We offer tailored legal solutions for multi-use properties, navigating the complex interplay of residential, commercial, and industrial regulations.</p>
                 </Card.Content>
                 </Card.Root>
         </div>
@@ -73,7 +73,7 @@
                 <Card.Title class="text-primary text-2xl tracking-wide">Residential Properties</Card.Title>
                 </Card.Header>
                 <Card.Content class="">
-                <p>Our attorneys handle various commercial and business litigation matters to protect our clients' interests.</p>
+                <p>Our attorneys assist residential property owners with a range of legal matters, from property tax appeals to homeowners' association disputes and real estate transactions.</p>
                 </Card.Content>
                 </Card.Root>
         </div>
