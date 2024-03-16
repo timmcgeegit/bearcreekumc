@@ -24,7 +24,7 @@
                <li>Insurance defense</li> 
             </ul>
         </div>
-        <div class="container">
+        <div class="lg:container">
             <div class="container py-16 bg-primary rounded h-full">
                 <div class="text-4xl text-background-alt mb-5 font-serif font-bold">Get in Touch</div>
                 <div class="text-normal text-white">

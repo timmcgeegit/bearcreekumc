@@ -15,7 +15,7 @@
             <p class="mb-4">The firm's attorney are licensed to practice in all Texas state courts, including the Texas State Supreme Court, and one or more of the attorneys are licensed to practice in the United States District Court for the Southern District of Texas, and the Fifth Circuit Court of Appeals in New Orleans. Hugh McKenney has been qualified to practice in various other state courts.</p>
             <p class="mb-4">The attorneys at McKenney | McClelland PLLC are not board certified in any particular area of practice by the Texas Board of Legal Specialization.</p>
         </div>
-        <div class="container">
+        <div class="lg:container">
             <div class="container py-16 bg-primary rounded h-full">
                 <div class="text-4xl text-background-alt mb-5 font-serif font-bold">Get in Touch</div>
                 <div class="text-normal text-white">

@@ -17,15 +17,15 @@
   
   <main class="font-sans bg-background-alt">
     <Header />
-    <section class="bg-muted">
+    <section class="bg-muted overflow-x-clip">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-          <div class="py-8">
-            <h1 class="text-4xl lg:text-6xl text-primary font-bold mb-4 font-serif">Experienced Legal Representation</h1>
+          <div class="lg:py-8 pt-16">
+            <h1 class="text-5xl lg:text-6xl text-primary font-bold mb-4 font-serif">Experienced Legal Representation</h1>
             <p class="text-xl leading-loose mb-8">We understand the difficulties and stress that you may face daily. Our team is here to provide superior legal advice with individual attention, communication, and dedicated personalized service.</p>
             <Button href="/contact" class="text-lg transition-all duration-300 hover:shadow-xl tracking-wide py-8 font-normal">Request Consultation</Button>
           </div>
           <div class="relative">
-            <div class="absolute ml-32 inset-0 bg-primary w-full h-full z-0 overflow-x-hidden"></div>
+            <div class="absolute ml-32 inset-0 bg-primary w-full h-full z-0"></div>
             <div class="relative z-10 -bottom-12 p-4">
                 <AspectRatio ratio={3 / 4} class="bg-muted rounded">
                     <img
@@ -41,7 +41,7 @@
       </section>
   
     <section class="container mx-auto my-24">
-      <h2 class="text-5xl font-bold text-primary mb-4 font-serif">Primary Services</h2>
+      <h2 class="text-5xl font-bold text-primary mb-4 font-serif">Areas of Focus</h2>
       <p class="text-xl max-w-xl leading-relaxed mb-8">Our firm provides skilled legal services in property tax appraisal litigation, commercial law, family law, probate, and more throughout Texas.</p>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <div>

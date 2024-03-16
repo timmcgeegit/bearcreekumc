@@ -9,10 +9,10 @@
     <div class="container mx-auto flex justify-between items-center">
       <div class="flex flex-row items-center justify-between gap-5">
       <div>
-      <a href="/" class="md:text-3xl text-2xl text-primary font-bold font-serif">McKenney & Associates</a>
+      <a href="/" class="md:text-3xl text-4xl text-primary font-bold font-serif">McKenney & Associates</a>
       </div>
-      <div style="">
-        <Sheet.Root class="">
+      <div>
+        <Sheet.Root>
           <Sheet.Trigger class="lg:hidden items-center pt-3"><Menu /></Sheet.Trigger>
           <Sheet.Content>
             <Sheet.Header>
