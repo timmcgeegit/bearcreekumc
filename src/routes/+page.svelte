@@ -45,7 +45,7 @@
       <p class="text-xl max-w-xl leading-relaxed mb-8">Our firm specializes in property tax appraisal litigation, business law, and commercial litigation while offering a wide range of general legal services.</p>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <div>
-            <Card.Root class="transition-all ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
+            <Card.Root class="transition-all ease-in-out h-full duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
                 <img src="/McKenney_McClelland_Commercial.jpg" alt="Commerical Property" class="mb-6 rounded">
                 <Card.Header class=" mb-3 py-0">
                 <Card.Title class="text-primary text-2xl tracking-wide">Commercial Properties</Card.Title>
@@ -56,7 +56,7 @@
                 </Card.Root>
         </div>
         <div>
-            <Card.Root class="transition-all ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
+            <Card.Root class="transition-all h-full ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
                 <img src="/McKenney_McClelland_Multi-Use.jpg" alt="Multi-Use Property" class="mb-6 rounded">
                 <Card.Header class=" mb-3 py-0">
                 <Card.Title class="text-primary text-2xl tracking-wide">Multi-Use Properties</Card.Title>
@@ -67,7 +67,7 @@
                 </Card.Root>
         </div>
         <div>
-            <Card.Root class="transition-all ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
+            <Card.Root class="transition-all h-full ease-in-out duration-500 hover:-translate-y-3 hover:shadow-xl shadow-lg pb-3">
                 <img src="/McKenney_McClelland_Residential.jpg" alt="Residential Property" class="mb-6 rounded">
                 <Card.Header class=" mb-3 py-0">
                 <Card.Title class="text-primary text-2xl tracking-wide">Residential Properties</Card.Title>
