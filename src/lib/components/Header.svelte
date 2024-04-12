@@ -9,7 +9,7 @@
     <div class="container mx-auto flex justify-between items-center">
       <div class="flex flex-row items-center justify-between gap-5">
         <div>
-          <a href="/" class="md:text-3xl text-4xl text-primary font-bold font-serif">McKenney & Associates</a>
+          <a href="/" class="md:text-3xl text-4xl text-primary font-bold font-sans">Bear Creek UMC</a>
         </div>
         <div>
           <Sheet.Root>

@@ -25,8 +25,8 @@
     <section class="bg-muted overflow-x-clip">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div class="md:py-8 pt-16 pb-16">
-            <h1 class="text-5xl lg:text-5xl text-primary font-bold mb-4 font-serif">Experienced Legal Representation</h1>
-            <p class="text-xl leading-loose mb-8">We understand the difficulties and stress that you may face daily. Our team is here to provide superior legal advice with individual attention, communication, and dedicated personalized service.</p>
+            <h1 class="text-5xl lg:text-6xl text-primary font-bold mb-4 font-sans">Welcome Home</h1>
+            <p class="text-xl leading-relaxed mb-8">Bear Creek United Methodist Church is a safe, inclusive faith community, seeking and growing in Christ’s love.</p>
             <Button href="/contact" class="text-lg transition-all duration-300 hover:shadow-xl tracking-wide py-8 font-normal" aria-label="Request a consultation button">Request Consultation</Button>
           </div>
           <div class="relative">
@@ -34,8 +34,8 @@
             <div class="relative z-10 -bottom-12 p-4">
                 <AspectRatio ratio={3 / 4} class="bg-muted rounded">
                     <img
-                      src="/OfficeArchitecturePatrickTomasso@0.5x.webp"
-                      alt="Picture of a tall glass building"
+                      src="/bcumc-hero-bg.webp"
+                      alt="Picture of a Bear Creek UMC on a beautiful day"
                       class="h-full w-full shadow-lg rounded object-cover"
                     />
                   </AspectRatio>
